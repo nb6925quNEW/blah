@@ -1,2 +1,3 @@
 new class name here
 private variable
+new change
